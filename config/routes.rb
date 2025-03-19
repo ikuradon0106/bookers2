@@ -4,7 +4,7 @@ Rails.application.routes.draw do
   devise_for :users
   post 'books' => 'books#create'
   
-  resources :books, only: [:new, :index, :show]
+  resources :books, only: [:new, :create, :index, :show, :destroy]
   resources :users, only: [:edit, :show]
 
 end
