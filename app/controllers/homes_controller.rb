@@ -1,7 +1,10 @@
 class HomesController < ApplicationController
 
   def top
-    @user = User.find_by(id: params[:id])
+    @user = current_user
+  end
+
+  def about
   end
 
 end
