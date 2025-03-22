@@ -295,7 +295,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "rubie@rogahn.test", name: "djzf0yfu59", introduction: "klen90bnfid22g7kh39r", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "marilee@stamm.test", name: "j05at21y7w", introduction: "klhxeiy59hyjqqatj8rx", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# ./spec/controllers/users_controller_spec.rb:4:in `block (2 levels) in <top (required)>'[0m
 
@@ -303,7 +303,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "denise@cummerata-bauch.test", name: "fcjufcbohr", introduction: "1r2q1jufndkwkalbey6d", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "hilario_grimes@jaskolski-jakubowski.example", name: "m01i6oy91z", introduction: "blybxo5i8sh9q1an8ent", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# ./spec/controllers/users_controller_spec.rb:4:in `block (2 levels) in <top (required)>'[0m
 
@@ -311,7 +311,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "edison@white-lesch.test", name: "5yepa0kfqd", introduction: "p0rnhnglmuu15x61fnfu", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "daniel.kilback@mohr-brakus.example", name: "nje2g58p4r", introduction: "8a1fmljr7ab9o5p5o7p1", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# ./spec/models/book_spec.rb:7:in `block (3 levels) in <main>'[0m
      [36m# ./spec/models/book_spec.rb:8:in `block (3 levels) in <main>'[0m
@@ -320,7 +320,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "margorie@mann-gibson.example", name: "9uqj0dqbcf", introduction: "u6m1ygztowvfettmhzuy", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "catrice_towne@purdy.example", name: "y2oj4k4bvz", introduction: "n87uekykvgiuh32uhcxm", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# ./spec/models/book_spec.rb:7:in `block (3 levels) in <main>'[0m
      [36m# ./spec/models/book_spec.rb:8:in `block (3 levels) in <main>'[0m
@@ -329,7 +329,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "janita@feeney.example", name: "xhmky02bec", introduction: "siraw9o0j9kpwwxl5lgf", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "ewa@ernser.test", name: "mgl9fabrxh", introduction: "jmdhdg7y4b80j9sukgh9", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# ./spec/models/book_spec.rb:7:in `block (3 levels) in <main>'[0m
      [36m# ./spec/models/book_spec.rb:8:in `block (3 levels) in <main>'[0m
@@ -338,7 +338,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "roxane_batz@dach.test", name: "levsivi1w2", introduction: "jxk69ulvl5r7gjb1hpem", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "kandy@pacocha.test", name: "t0ckvkw52z", introduction: "stxr95khuzrd77653som", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# ./spec/models/book_spec.rb:7:in `block (3 levels) in <main>'[0m
      [36m# ./spec/models/book_spec.rb:8:in `block (3 levels) in <main>'[0m
@@ -347,7 +347,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "zula.considine@cummerata.example", name: "fjypz0d7bl", introduction: "e12q03mvh1qz8ool27xb", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "delma.senger@oconnell.test", name: "0j5vc1tavx", introduction: "4e72wmx9spv13voyvqwm", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# ./spec/models/user_spec.rb:7:in `block (3 levels) in <main>'[0m
 
@@ -355,7 +355,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "carl.predovic@deckow.example", name: "a2l2ztj8p1", introduction: "mnktu29kpl6w9on86ctq", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "chester@russel.example", name: "688qkonuwq", introduction: "08vo5m8f3lb9lfjzcp68", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# ./spec/models/user_spec.rb:7:in `block (3 levels) in <main>'[0m
 
@@ -363,7 +363,7 @@ Failures:
      [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
      [31m[0m
      [31mNoMethodError:[0m
-     [31m  undefined method `profile_image' for #<User id: nil, email: "dalton@green.example", name: "jlcnyugk8b", introduction: "nwik00vz5xtk6fbx59sz", created_at: nil, updated_at: nil>[0m
+     [31m  undefined method `profile_image' for #<User id: nil, email: "helena.bernhard@schneider.test", name: "loubpvh9zb", introduction: "sqigqvrk9zewdeksjakx", created_at: nil, updated_at: nil>[0m
      [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
      [36m# ./spec/models/user_spec.rb:7:in `block (3 levels) in <main>'[0m
 
@@ -371,7 +371,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "alayna@hermann.example", name: "knm1zr9rw8", introduction: "rnv5focyuru1jryqztbi", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "mariana@hilll.test", name: "2g7trznsxe", introduction: "9y9ekui1r7x4tjtdvjsh", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/models/user_spec.rb:7:in `block (3 levels) in <main>'[0m
 
@@ -379,7 +379,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "chad@jacobson.test", name: "sgae0v7whi", introduction: "9ls4undxexzg858rmz6e", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "kayleigh_wilkinson@mcglynn-littel.example", name: "eze5ow9wwn", introduction: "u4a6pfwg0t7f72jptdzg", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/models/user_spec.rb:7:in `block (3 levels) in <main>'[0m
 
@@ -387,7 +387,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jonna@corwin.example", name: "8qiher82av", introduction: "8n2xsrhxjxwddptvj2yk", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "kayleen@greenholt-schmitt.test", name: "727gkcobp0", introduction: "mczs0y4aa29jodmw83gt", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/models/user_spec.rb:7:in `block (3 levels) in <main>'[0m
 
@@ -395,7 +395,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "shamika@jakubowski.example", name: "m07tpyuc4y", introduction: "q797uqst6yo56jnqhdip", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "ryann@langosh.example", name: "3xppk3cy60", introduction: "gxvzab067usn8ks2j0h7", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/models/user_spec.rb:7:in `block (3 levels) in <main>'[0m
 
@@ -403,7 +403,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "porter.bernier@luettgen-rowe.test", name: "0caxzvwfpo", introduction: "igrdo9rembv73a5jq84w", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "brady.walter@brekke.example", name: "herdk4qy98", introduction: "n65cf3j4lcohxlfok5dj", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/models/user_spec.rb:7:in `block (3 levels) in <main>'[0m
 
@@ -427,7 +427,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "marty.kessler@kirlin.test", name: "krpd95s77k", introduction: "97lvah2tnk2z1dhbxac3", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "wilber.steuber@feeney-torp.example", name: "is9uvnxa38", introduction: "0e20gdyx8svdwu2wjouk", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:158:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:187:in `block (4 levels) in <main>'[0m
@@ -436,7 +436,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "ahmad@bode-ernser.example", name: "bdkesk6qbg", introduction: "1kl5b4zjuqi6do407cug", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "hilary_aufderhar@gottlieb.test", name: "x4b0j2p7ak", introduction: "rzhpt5zk5anmbneqkzii", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:211:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:215:in `block (3 levels) in <main>'[0m
@@ -445,7 +445,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "arianne@farrell-bartell.test", name: "k0e8941hd9", introduction: "vufwr8pjj1s7eerif6t4", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "luann@carroll.example", name: "j5s5r9ir98", introduction: "rz1z7aa7yufilvkimwre", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:211:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:215:in `block (3 levels) in <main>'[0m
@@ -454,7 +454,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "abram_collier@tremblay.example", name: "z6fzbiizyd", introduction: "744lutj399u8egkrqwnj", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "karrie@rau-bogan.example", name: "3ukyxvrkhq", introduction: "x4pbnzme2bhq7lrkdpfy", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:211:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:215:in `block (3 levels) in <main>'[0m
@@ -463,7 +463,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "liza.johnson@marks.test", name: "186qlzudi5", introduction: "yr34kqsay6n418maqmx6", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "forest.jacobson@champlin.example", name: "gltfgb1vw4", introduction: "algm2oinbw644fnslfav", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:211:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:215:in `block (3 levels) in <main>'[0m
@@ -472,7 +472,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "cary.cruickshank@koelpin-barrows.example", name: "wlqm5qcj3b", introduction: "4hew3huat6ljrxf5czr0", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "jesus@feil-becker.test", name: "8r7cf5qw9l", introduction: "bqye739g71jljske9grr", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:211:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:215:in `block (3 levels) in <main>'[0m
@@ -481,7 +481,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "mario@dietrich-rogahn.example", name: "qwwu71skf3", introduction: "qrot7owc28o300bkgz36", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "david.funk@jones-grady.example", name: "c6t4agisy9", introduction: "himk2oxvq3xyue0m2j3d", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:245:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:249:in `block (3 levels) in <main>'[0m
@@ -490,7 +490,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "darwin@fadel-hyatt.test", name: "gvwu1j7rl3", introduction: "mcuuzhktvpaecyelj5tz", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "diego_bahringer@dickinson.example", name: "15eefvcqyx", introduction: "ecd7aydfu8743rr9c7gr", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:245:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/01_before_login_spec.rb:249:in `block (3 levels) in <main>'[0m
@@ -499,7 +499,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "lawerence_wisozk@dare-paucek.example", name: "6yalk3elyl", introduction: "psfcqwhvrg9qi4ach3t6", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "shirlene_kling@ritchie-denesik.example", name: "fcoqyaeqwi", introduction: "dy2xa4uqvsrpaxp77tyj", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -507,7 +507,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "arlene.gulgowski@maggio.test", name: "61z4awk4s9", introduction: "clcmg1fsvjvcibkepvc1", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "wilbert.botsford@kutch.test", name: "qqpg452h2e", introduction: "xxo5c5mk3bsc0ghimc0h", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -515,7 +515,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "monty@bogisich.example", name: "6glm6p0mbo", introduction: "4l0yx251z00p0iumge4h", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "antony@cummings-swift.example", name: "k2kx1z9doz", introduction: "klxyitrylm5xfgizpqny", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -523,7 +523,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "wan_lang@frami.example", name: "q1hlnnlcbk", introduction: "3tjyf1a2nvadxaftvtx2", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "verda.pfannerstill@walter-thompson.example", name: "ombb6ibpo8", introduction: "xzy7oa9hsebcpdpkippu", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -531,7 +531,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "nicky_ward@weimann.example", name: "5afwk06m95", introduction: "xnkd8xt1gotogypgknv4", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "edgardo@crona-abshire.test", name: "pvzdh46ldq", introduction: "5c53brijv63falebutr4", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -539,7 +539,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "kassie@nikolaus-cormier.example", name: "t5tyaicuoq", introduction: "o7z5wed5o4fd2yjwjtal", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "kennith.kihn@ritchie-schoen.example", name: "8zwarcmyax", introduction: "0qozpx7g8zurrawvamdl", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -547,7 +547,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "roberta@goldner-gutkowski.test", name: "sbs1ntwrod", introduction: "wjxfiqsbhxikbr5o4q2e", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "tomiko.lueilwitz@damore.example", name: "srtvhswtbu", introduction: "ot98vtazoaopjcz87vke", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -555,7 +555,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "malisa_price@bechtelar.test", name: "94i3tyhwyz", introduction: "6krl0ibu0syd4l3u0sk7", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "joellen.jacobi@bahringer.example", name: "b7yduhvot4", introduction: "0b1dk02huyfh2y32gs7h", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -563,7 +563,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "garth.rogahn@hudson-hills.test", name: "jh1hc3v10q", introduction: "27esmqbheyumffeiuaen", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "leroy@abshire-rohan.test", name: "h9rbtc7znu", introduction: "erzncaqoxd1k4h61yrps", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -571,7 +571,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "ferne.rath@mayert-hirthe.example", name: "vxjq7qpqq9", introduction: "9swg7imaed9jvyilb8za", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "reyes@dare.example", name: "dm7z6xxn1x", introduction: "ffrmiqu62qfic5vfbqku", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -579,7 +579,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "kendall@cassin-kunde.example", name: "nzw9mbucc4", introduction: "ua0xfl28uho37yh7druy", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "jenice_hyatt@pfeffer-jenkins.example", name: "x4edcemdyl", introduction: "q88tnysowace7lcv3o5x", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -587,7 +587,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "angeline@swift-jast.test", name: "k9zs6i46gh", introduction: "53of3ap5an48541k6vqa", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "terry.stanton@ryan-jerde.test", name: "sbwaiq658w", introduction: "ezgep752unzzryx7xq8o", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -595,7 +595,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "drew.reilly@kassulke.example", name: "cndqkmchxo", introduction: "ddldbbpo8ipervch40v9", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "alphonse.treutel@olson-watsica.test", name: "3x26vyypuu", introduction: "c05y1ewszmtrmzj84bx0", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -603,7 +603,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "arthur@paucek.test", name: "o0wzgomeu0", introduction: "hyeun01vj1izzokbdydt", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "kristine_bosco@wuckert.test", name: "q42q2808fz", introduction: "lsgzctze971vhljjviog", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -611,7 +611,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "mitchell@collins.example", name: "2pb6ge2crf", introduction: "opychv6qz9k9dfitehi7", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "hobert@rice.test", name: "l55ij1axpo", introduction: "p5pkrvuzwanr9ugmyg8w", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -619,7 +619,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "roland.kuhn@dach-collier.example", name: "ixu3o1xz85", introduction: "300qd53n82y3oc9mg9ib", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "teodoro@oconner.example", name: "dqh871s1bl", introduction: "parrx27i3cjgf47a7t9j", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -627,7 +627,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jasmine@kessler.example", name: "8w91d79bai", introduction: "9c4gsul6vbybiaxv14cy", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "marquetta.johnston@daniel.example", name: "pudrpdlsa7", introduction: "0csltern3toa30c9y5hr", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -635,7 +635,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jon_kris@lynch.test", name: "cyxj53q0bc", introduction: "y6d8cszsgu3wqcz54a39", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "angel_wyman@harber-will.test", name: "29k6gus00c", introduction: "4ceqjaxfhc2u5ifj319k", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -643,7 +643,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "estella.satterfield@kautzer.example", name: "nlw06w5txm", introduction: "iyht9ydawgza0gu04kvp", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "suzan@schmitt.test", name: "254weh9ycl", introduction: "la72fzb1neinjvdgfqg1", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -651,7 +651,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "augustine@ebert.example", name: "euvxom387n", introduction: "qesu3hjdfj9zlnoo1hl0", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "paul_reichel@kerluke.example", name: "7eago0zgen", introduction: "m5s3s22ji6vel0s3tmt7", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -659,7 +659,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "bernetta_boyer@ziemann.example", name: "4kibigk4ba", introduction: "61ly4dcii4biuf10c2fw", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "jonathan@kertzmann.test", name: "crl3ifji5g", introduction: "25y2wgm6j3neqfb0f4h3", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -667,7 +667,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jen@ondricka.example", name: "5uclfss1jf", introduction: "kcp8n6l80wun6b6d2ckj", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "basil@jacobi.test", name: "m367djl1ss", introduction: "7ww317l853nf2ic5y6v0", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -675,7 +675,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "joe_miller@terry-hilll.test", name: "mlevjj4cmi", introduction: "tiy4z3uquyw6rochtk54", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "augustine@hayes.example", name: "suygf3pvho", introduction: "ekmsjktzwgcxabkog3km", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -683,7 +683,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "vince.pacocha@hackett.example", name: "c4549p5piq", introduction: "in2z7e2vilykbb4zoouk", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "mazie.wintheiser@oreilly-bauch.example", name: "ynki14y5ku", introduction: "xl3ziwv9uin96le745e6", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -691,7 +691,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jan.klein@schoen.test", name: "mkmfs2bqln", introduction: "jp2g7hyc8z7mp8wjg7ts", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "angel@hermiston.example", name: "akmg9ycj9n", introduction: "l8bu8jumbfbillimkmq6", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -699,7 +699,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jaimie.dickinson@pfannerstill.example", name: "mm5z14pxru", introduction: "7429bbn410ubtcr0woik", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "cornelius.howell@cummerata.test", name: "d7dokuq716", introduction: "intnk0vq0428zgtz0ey1", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -707,7 +707,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "june.prosacco@lueilwitz.example", name: "g7plk5f2ef", introduction: "tytjdwvnhgssfrxxrv7j", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "caterina_kihn@kuvalis-little.example", name: "u06zjr4w3p", introduction: "d06ab461i00sestq6lwj", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -715,7 +715,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "eleanore@schimmel-bogisich.example", name: "119xeinok2", introduction: "11sve5lwspzjm77wv8yz", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "marquis_langworth@mraz-cummings.test", name: "f8ohzw0238", introduction: "s69auo7mzb2xqfx0h1sm", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -723,7 +723,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "drew_turner@jerde.example", name: "9gth3fyle1", introduction: "1eef9kw0a8g37xnwzh2d", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "efrain.block@swaniawski.example", name: "seys83emr3", introduction: "76s8b0rxsobp7uzzdfbw", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -731,7 +731,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "caprice@frami.test", name: "1ox8kcu8jc", introduction: "dn9f99lpr2mcgsi45agr", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "lavenia@pouros.example", name: "gekrv0b91k", introduction: "9n8ejti2nvurj1nziy3n", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -739,7 +739,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "gerardo_armstrong@lowe.example", name: "zl1umfruoe", introduction: "754ql0qdl41ow1bzhrry", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "steven_bruen@bergstrom.test", name: "604jmgutdh", introduction: "oig1foqduytq49mnyyxy", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -747,7 +747,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "terrell@okon.test", name: "9gzts2oz9h", introduction: "nc3fzwfge0qiztll0aei", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "luigi_satterfield@upton.example", name: "670pgq7r4z", introduction: "dhyd2vlq502thpd8yfaj", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -755,7 +755,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "johnson_frami@klein.test", name: "hmwju3ocz4", introduction: "5px36ablelzdxcr3wfsl", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "candance.kuvalis@sanford-oreilly.example", name: "yue7xfe4jg", introduction: "w8wa7sug4yyakucfv5fk", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -763,7 +763,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "willian_kris@rempel.test", name: "19vx8yssun", introduction: "2veerz9l10h9tduz7kmb", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "felicita.nienow@metz-reichel.test", name: "2ih51tds69", introduction: "cow3xtxktqfrh4fc004b", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -771,7 +771,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "stanford@bauch.example", name: "f943cdgstt", introduction: "t8lthlkiaqriv7emrte7", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "elvia.ritchie@von.test", name: "tyf288lqn2", introduction: "s6dwpgwr3jwee0aavxwb", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -779,7 +779,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "whitley.gerlach@larson.test", name: "0pb4co6ksi", introduction: "mqww8mjfyvnu4hjfxpyt", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "carlo.mayert@schamberger.test", name: "hdeketehtp", introduction: "5kt0xvcb9sknngsk6joi", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -787,7 +787,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jerrell_dubuque@russel.example", name: "xbr2o2jb2j", introduction: "c5wur11x5c075etc48q5", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "jarvis_runte@oconnell.example", name: "8123pvuu96", introduction: "7194pqpibo6qm5av582j", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -795,7 +795,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "johnny@rosenbaum-beer.example", name: "a1t6xv38va", introduction: "jbr707o202mkspsce5vq", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "lloyd@effertz.test", name: "19guqkfnhs", introduction: "06v7ksmcwh0czvivang1", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -803,7 +803,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "lester@kling.test", name: "yfkeq96m81", introduction: "augl6h9zgwzja3162qpw", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "eufemia@weber.example", name: "v7dkt678cn", introduction: "eyn1tnyempb3j3yhpv3z", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -811,7 +811,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "terry@hansen.test", name: "tvguhhz857", introduction: "vvqulxznx8bnbqgfkfp5", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "suzanne.cremin@gerlach-beier.example", name: "87uhlg2x0e", introduction: "mc0242mbz6p7jiu6u7ql", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -819,7 +819,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "mauricio@pfannerstill-schumm.example", name: "7qglkm71am", introduction: "dfwh8ex04wai4cfmugay", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "leo.flatley@abshire.test", name: "0wi7nqihja", introduction: "t0h9pfgfst0kfwm8llsd", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -827,7 +827,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "son.conn@conroy.example", name: "06f5yiyyog", introduction: "7a7lyr9fcvk91ff4s61s", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "sammie.corwin@borer.test", name: "vs0nj2hjc8", introduction: "nmhukrvu65sboprkr28k", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -835,7 +835,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "wendolyn_reichert@cassin.example", name: "4sbfxhhqw0", introduction: "v1ql6rvf4j8ts2d4768d", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "miesha_walter@kerluke.example", name: "vx7lwk5fig", introduction: "mj5qdbq7fhbmarqiow86", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -843,7 +843,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "alexis@beer.example", name: "rew3eunxaf", introduction: "olq103od87t35qw5w4l0", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "krystina_fahey@spinka-schinner.example", name: "5xphhymk80", introduction: "5stwjmrnpk67ia3k8ubp", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -851,7 +851,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "quiana_durgan@weimann.example", name: "huajnqcigw", introduction: "59ao0ljh1uz9vg7vzlei", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "larita.robel@roberts.test", name: "4o1zka5kwl", introduction: "jbeo8gkv46coq7ex24me", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -859,7 +859,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jayson_hane@hammes-hackett.example", name: "xo2ah6r6ex", introduction: "dwxanzbhj7pu0n6y310w", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "mui.ortiz@jenkins.example", name: "1cfd08zs8b", introduction: "8s6tyxe9pcy222oq9lna", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -867,7 +867,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "ervin@cummings.test", name: "zuhurn61zo", introduction: "g98cdf3xn5vrgiw7vg3u", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "shila@lesch.example", name: "hprxdc8fvt", introduction: "pcayirr10r98be93yyz8", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -875,7 +875,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "samuel@goyette-swaniawski.test", name: "v4yj64skvo", introduction: "8irt5ldkm7v1tx5cjy6z", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "derrick.torp@sipes-sanford.example", name: "odjyjv57g6", introduction: "ci2hj5bptkwoend8plbv", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -883,7 +883,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "mike@wunsch-hagenes.example", name: "h90i8gmltl", introduction: "ef1bvu5ghkgspylyfupl", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "jerrica_lueilwitz@konopelski.test", name: "l0vos13jo1", introduction: "2kia90uvjfqocoiti4xn", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -891,7 +891,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "aubrey@pollich.example", name: "773jycmzij", introduction: "y8g6rbn1tzufy6hczjo0", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "shaina_greenholt@schultz-kunde.example", name: "6npy28imww", introduction: "gdtbhzk0svlpuliz899s", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -899,7 +899,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "denis_stehr@fisher-kuphal.example", name: "xncfcp7uy3", introduction: "mzsr1kz4rzv4y437jlkr", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "karleen.kirlin@fritsch.example", name: "h3w02l64hc", introduction: "j7t5p520za0fxfa2vuj1", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -907,7 +907,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "wesley_ruecker@blanda.example", name: "keiumvepaj", introduction: "vfjc0gyprjtmr6ief8kq", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "glenn_wyman@frami-predovic.example", name: "bc30tci1w4", introduction: "by8fkli68axzfmje4w1t", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -915,7 +915,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jung@mante.example", name: "rj84pidckd", introduction: "7jbx0tclz0px2pha239d", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "lloyd.bartoletti@runolfsdottir.example", name: "4klfcckdz4", introduction: "ao993dalnth36zg9y2lz", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -923,7 +923,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "celia@bailey.test", name: "oy8eny8x3f", introduction: "bx7gx3lcqjsx7cs88qgd", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "zane.hane@sipes-roberts.test", name: "qvcs90cc4t", introduction: "z1j01sbn14kyxo6t363u", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -931,7 +931,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "marianna.lehner@lesch-kris.test", name: "cz74isruhz", introduction: "z6q4zc6s0u27eaqa56xv", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "dane@reilly.example", name: "ix3sd9b6ow", introduction: "8ge417isr9hm9z27iwk1", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -939,7 +939,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "tommie@lang.test", name: "88am0y5q2i", introduction: "nnlgw46uf6jusnrzqi5x", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "keenan_bernhard@osinski.test", name: "8ml38fo8xx", introduction: "med15djptsyxpe4em2u6", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -947,7 +947,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "rebbeca.sauer@swaniawski.example", name: "khnhy1bk9k", introduction: "wirclnajeyeb6bjxer0a", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "ed.sauer@grady-will.example", name: "eefmxy01ln", introduction: "t88kj1g5yzc8bfjf53wd", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -955,7 +955,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "christina.moore@langworth-robel.test", name: "6oohtzjeyw", introduction: "kuu6tawfrqpuw58erak7", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "tom.fritsch@sauer.test", name: "q13p7jm9hk", introduction: "7pj8khwgtxqvwsnefipd", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -963,7 +963,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "laronda@homenick.test", name: "qd203bf8js", introduction: "zqwavkojunqw2mjrm0uq", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "amado@volkman-keebler.example", name: "1d8d4wt09i", introduction: "g5os3kwd0z4t1flexwa1", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -971,7 +971,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "weston_heathcote@upton.example", name: "h1obxs7dzu", introduction: "zmrnt0lhgzvp0frgkb0z", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "maxie@price-kunze.test", name: "ykgydhrq3w", introduction: "iqvvk923nf6ogwa1911z", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -979,7 +979,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "adelaida@kuhlman.example", name: "u8fyezcxq7", introduction: "dc1494hfrkaulo2bkgxk", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "desmond@renner.example", name: "loehpd4ua7", introduction: "1en9eclrmxrbcd4g91jr", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -987,7 +987,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "jaclyn@heller.test", name: "1ruk3naud0", introduction: "jvf426xugxka6dqeiho5", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "margarita@reichel-jast.test", name: "nk7vk9m0vn", introduction: "e0fxw7urkyie8be61bc4", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -995,7 +995,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "tomoko.towne@huels.example", name: "l33mcddzux", introduction: "mnx131ubx44pbyvpi6qx", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "antoine@bednar.test", name: "xmhqjuuoh6", introduction: "a05xj0c7ur0w7m9yjac8", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1003,7 +1003,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "taina.rowe@frami-becker.test", name: "psf77tg5r3", introduction: "fpf6nwcmui17s8x1cbcz", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "roberto@weimann.test", name: "x81ft8wmv6", introduction: "65mmbnv4ulq2rxhqp7qi", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1011,7 +1011,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "clarice_ankunding@swift-stehr.test", name: "n06gn8hdbx", introduction: "tjh84xupsieh9t7axobu", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "leoma@ernser-hane.example", name: "3m6ul9wud6", introduction: "ndmxsi18nb1c4bsecs28", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1019,7 +1019,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "kattie@kerluke.example", name: "28w4hbonca", introduction: "6nmtaa4t1m7j7qd9fjwi", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "casey.stracke@wolff-thompson.test", name: "3e0jlocgf9", introduction: "8ykhuh5ulqoo7u4m4yay", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1027,7 +1027,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "lana@simonis.example", name: "unc4f6oifa", introduction: "f7f9k8wzuvlrdf4j4ol3", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "francisca@kunde.test", name: "ghpck593h0", introduction: "wohka9a7gngjn2x5qt1w", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1035,7 +1035,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "autumn@hessel-dickens.example", name: "l4hjcjndf3", introduction: "bvl4rioklnvqamfvfyhj", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "guillermo_sanford@steuber.example", name: "tt8f5s9cok", introduction: "hzut7djc6bvhbwmsc06n", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1043,7 +1043,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "dave.emard@konopelski-hessel.example", name: "comxaw9z1d", introduction: "pyqn8joxtad49ynczfbp", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "brandon.hoeger@hyatt.example", name: "h4ndelecfr", introduction: "1vhbsz8dim09asphke5f", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1051,7 +1051,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "andrea@cole.example", name: "jopted0y0s", introduction: "pta4yckhlw4n2cdc1qj5", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "william@franecki.test", name: "36147qzj9f", introduction: "981320i0vlbxspye0k3g", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1059,7 +1059,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "dwain.raynor@murazik.test", name: "8dmx6ox4jn", introduction: "b0myi1m59ai9hj1d2c1b", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "shantell@hamill.example", name: "laeenuhuez", introduction: "zmejt7a75vhogc84vmq9", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1067,7 +1067,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "colin.wunsch@koepp.test", name: "dn50pu8fqa", introduction: "m2si61fcppvt722tnltj", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "louann_conroy@king-cassin.test", name: "81k49nleu7", introduction: "ndfvezpf5bha2rur4et5", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1075,7 +1075,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "edith@herzog.example", name: "bi7jjfj33a", introduction: "ubuvv736dmv5hoi67q5q", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "sherwood.funk@feil.test", name: "p98rpq5t2j", introduction: "sq3c40re44x46x4iy4s4", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1083,7 +1083,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "emmy@rowe.test", name: "ujyffaagrj", introduction: "1vtyvxz3jv6c4tan5i73", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "rosina_kertzmann@thompson.test", name: "haazmeis2n", introduction: "r4wulhqg8y3p6l81r3xh", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1091,7 +1091,7 @@ Failures:
       [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
       [31m[0m
       [31mNoMethodError:[0m
-      [31m  undefined method `profile_image' for #<User id: nil, email: "bradley.spinka@kreiger-goodwin.test", name: "f158kk4t4f", introduction: "hk3fort77ze6hmqiy43r", created_at: nil, updated_at: nil>[0m
+      [31m  undefined method `profile_image' for #<User id: nil, email: "rayford_morissette@kulas.example", name: "h0kjohtsc8", introduction: "5lduyk4lhywaalhb7szw", created_at: nil, updated_at: nil>[0m
       [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
       [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1099,7 +1099,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "tequila.williamson@rogahn-gulgowski.example", name: "19x6bkqn8o", introduction: "4yb0izi0b7ags7xnvlsh", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "luke@schaden.test", name: "cirjeawdxt", introduction: "zdceiowi4vtng0d0w1ay", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1107,7 +1107,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "carleen@littel.example", name: "4res2zqu3f", introduction: "1rbui84j13socdb364v5", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "galen.volkman@anderson.test", name: "66ba940gpq", introduction: "hadjcv5pj6exbmwnkdr7", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1115,7 +1115,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "sonya.hahn@zemlak.example", name: "tn733xutjb", introduction: "ty6zlp4p0wrh7tmq2hid", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "annis@schinner.test", name: "czggwpp9hh", introduction: "28n7gtzdj0lz7y2aszfh", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1123,7 +1123,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "rose_brakus@schmidt-hane.test", name: "dhd1hr6lv2", introduction: "vfkpe4izav9y6ds058eq", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "chastity@davis.example", name: "jcjyt8xqsb", introduction: "tof88nno1iuib3khy849", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1131,7 +1131,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "keri@cormier.test", name: "rd738m6h8h", introduction: "l1npvdtuf48tqbrbm4ua", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "mireya_weber@bahringer-johnson.test", name: "dny5vygp7h", introduction: "2ex18rpsr46ftxqxjiac", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/02_after_login_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1139,7 +1139,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "donte@kemmer.test", name: "khxf10ixwz", introduction: "3dz2aaxw5qd3xp5p01n9", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "ronny@steuber.test", name: "pnx4agbztz", introduction: "gifavaegu51ablsmxubn", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1147,7 +1147,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "elissa@raynor-schumm.test", name: "36s9p1obb1", introduction: "ujcxzpsmngmi0zy1e5cr", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "christian@hoeger.example", name: "x84774h8gt", introduction: "px2cfhs6bobc1itd6yr3", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1155,7 +1155,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "delana_beier@harber.test", name: "ce99322ugk", introduction: "eflaubi9uqpf8xz1sp9s", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "lynn@gottlieb.example", name: "0yv9euw7mi", introduction: "al754dz7wvl5k8uxglc9", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1163,7 +1163,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "janie_muller@boyer.example", name: "arfzw02097", introduction: "p5qcrhttzs2n5kcp6ze4", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "raymon@blick.test", name: "sd56gfl0c3", introduction: "8r771wix1np0ntib1qay", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1171,7 +1171,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "juan.wuckert@ratke.test", name: "ox4cwpyfoj", introduction: "q1ttn5lfc7xbkmfelcrk", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "rufina@kohler-green.test", name: "byzzbpgblc", introduction: "v17r1zva6khenzdw0rfg", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1179,7 +1179,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "jon@goyette.example", name: "5novnpm5s4", introduction: "5ldg24lw80khww7ot1ff", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "rodger@herzog.test", name: "vgylr49zys", introduction: "yqm7d8z8ttloir6qk6wj", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1187,7 +1187,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "will@paucek.example", name: "89ntzhhtiz", introduction: "frapy2urs4x8w25w882y", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "delmer@sawayn.test", name: "pkcz0gh0y4", introduction: "eur0t4ll9ck7vdsfy8oy", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1195,7 +1195,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "su@waelchi-osinski.example", name: "gxn0l4qj42", introduction: "zvapaubd6e6le2107lpb", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "normand_streich@macgyver.test", name: "34hsktgl6u", introduction: "tb07dgwq5u0pf2uwp0uw", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1203,7 +1203,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "nathanael@aufderhar-klocko.test", name: "bzr54n6rvn", introduction: "o8qamdmlnwn8can1v2r3", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "nelle_schneider@heller-padberg.test", name: "jfed0vr9i4", introduction: "i247a39ftehdx98h7d5t", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1211,7 +1211,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "kyle.heller@effertz.test", name: "r52i6jb1jv", introduction: "jcoyn7eedovleby21lr7", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "wilfredo@hilll.test", name: "qsczaac49u", introduction: "qdgf97juclwjhpjtvsbd", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1219,7 +1219,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "troy@pacocha-kohler.test", name: "qor8d8d83m", introduction: "bq72lw694uvng7oq8hwk", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "chuck.treutel@rogahn-dickinson.test", name: "fssypzt0cx", introduction: "x33jg2rjyi5vwl5av06y", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1227,7 +1227,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "elaine.barrows@larson-schultz.test", name: "ky25gjibvc", introduction: "w6q04ipg1yyneln3nck8", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "lyman@waelchi-stokes.example", name: "8kefdvlels", introduction: "ee0vgah3gyh82evkmxwy", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1235,7 +1235,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "astrid@schuppe-lubowitz.example", name: "e540f9qq8s", introduction: "k5grfph10798gihdyt8h", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "jennie@labadie-gottlieb.test", name: "bjza00rzw4", introduction: "go1kq9hh5eisoo7lmm49", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1243,7 +1243,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "berniece@rempel.test", name: "wm0b93zp17", introduction: "xwijjva4xnc6snadwz3z", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "nathanael.swaniawski@emmerich.example", name: "99i8hnlmxl", introduction: "lj5is3otjh1xs16wqy8v", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1251,7 +1251,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "michele@sauer-abbott.test", name: "301bxn4d5z", introduction: "nb9t4ok2hwx2v9pzebsb", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "suzy_lesch@funk.example", name: "9l0w9j28tr", introduction: "m6kogana7fd9motezmc6", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1259,7 +1259,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "ricardo@romaguera-cormier.example", name: "v80km9p9xn", introduction: "114qgd8qex5ps8z28p2f", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "francie_hane@trantow.example", name: "qo115c0rvq", introduction: "topnenzsklodqh1m2ydd", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1267,7 +1267,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "lawerence.kirlin@zboncak-douglas.test", name: "b5ar4fkcqg", introduction: "wvidr7tx13oslmu19jqt", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "louetta@daugherty-kuhic.test", name: "9a5lk6kb3i", introduction: "1nn2c79pahvlx12yejgt", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1275,7 +1275,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "murray@wiegand.example", name: "teosn139yq", introduction: "50e8u82r1u2twigy5lmy", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "alessandra.reynolds@denesik.example", name: "wqqybiwoq9", introduction: "kho67h0xt1xk3q4g6rz2", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1283,7 +1283,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "eddie@franecki-langworth.example", name: "65c8d40bj4", introduction: "03xh02sir7iyfkn7923e", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "kizzie_predovic@keebler.example", name: "70xtaugl5h", introduction: "n43uyksc4q0hzyfkwvw9", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1291,7 +1291,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "ellamae.muller@nolan.test", name: "glan7epvgk", introduction: "mpy8ooyj1vnlpwp66ke5", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "alona@fisher-koss.test", name: "bnfzo2i0yh", introduction: "wnm1auviyes03jsjiuek", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1299,7 +1299,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "lavonne@schmidt.test", name: "hhrw6gu4ki", introduction: "wl72yqjjswdss9hk6mv1", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "keven@hintz.test", name: "werwnwn7uf", introduction: "bir3erkrn7f07s9gtpau", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1307,7 +1307,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "noriko.christiansen@conn.test", name: "3flieh9flx", introduction: "qiyqfploreclb7rvcpkw", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "raeann@rath-schroeder.test", name: "ntpb2wmwwh", introduction: "lgila3ndlx1mr3q52tgf", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1315,7 +1315,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "lionel@ruecker-schoen.test", name: "nyitty71ju", introduction: "pk8j446khhfj2ncdae50", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "carmine_farrell@luettgen-kiehn.example", name: "gf477gielg", introduction: "cyzjn914gy0ch9j7jssm", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1323,7 +1323,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "caleb@ortiz-strosin.test", name: "bqciau8n65", introduction: "8vtk02g8d6xriol5zzz5", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "raymon_schumm@kuhlman-spencer.example", name: "mvnj9ghi6d", introduction: "r7rd5ol35nj70mwao3el", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1331,7 +1331,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "clair@cronin.test", name: "dsa08y6hp7", introduction: "59vssgwewpte2bovzzbb", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "darlene@romaguera.example", name: "tvmuhd3nkm", introduction: "h5sdk2g2nvl536iafxld", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1339,7 +1339,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "carey.denesik@moore-homenick.test", name: "gxxlzhq6u1", introduction: "ovvplsh66c5s231mk9p0", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "gayle@hilll-ferry.test", name: "dlxxrwvo0g", introduction: "i3t75wblul40g42yfhns", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1347,7 +1347,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "ricardo@breitenberg-smith.example", name: "8ccpcrbaye", introduction: "77ac6q5pecteaipk5msq", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "julio.mclaughlin@stoltenberg-lockman.example", name: "occzw7d7no", introduction: "iv70d4c49b6ntn8dt2jn", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1355,7 +1355,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "frances.corwin@bergnaum-west.example", name: "g4sqqqr0iz", introduction: "sz41o16bk7l1bmt14tej", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "val@erdman.test", name: "re9ox18tqe", introduction: "2qcqdmkt8eu4hpsu9xul", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1363,7 +1363,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "darrell.gislason@kessler.example", name: "mtv8xvxlmi", introduction: "lgegdxerkn9fivbbfj62", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "kermit_becker@collier.example", name: "1p33gguh7n", introduction: "ynu1vr176erk8c26a6e1", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1371,7 +1371,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "irwin@abernathy.test", name: "dxqoi7uy8t", introduction: "ropzx7zf8utcs883rh8j", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "jolene.terry@kassulke-schmeler.example", name: "qsesml0w27", introduction: "shap57l21gzab3syybie", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1379,7 +1379,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "deedee_hansen@bashirian-collier.test", name: "gto62e4ims", introduction: "531qke916dvbkx179ksm", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "shanna@renner.test", name: "w4qv5gjarc", introduction: "79pq401aqa6ncb2yoeyf", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1387,7 +1387,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "bertram@tillman.test", name: "x36487whlc", introduction: "iixbih6dvsxhfz9lo0dq", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "nikole@will-rolfson.test", name: "4ijmaxg89q", introduction: "ukm6qb03vt2ypb6zpqu3", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1395,7 +1395,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "isadora.schuppe@hackett.test", name: "clle9ue5f3", introduction: "y4we33bx65t63i5vh0nk", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "antony_welch@bailey-schumm.test", name: "qlvh66f608", introduction: "jgq4oldk5c82fkrrh6nc", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1403,7 +1403,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "austin.aufderhar@block.example", name: "ycst4yeozs", introduction: "manx8j5gxpo0ancosf9l", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "darren.bruen@lynch.example", name: "nzvf64l337", introduction: "78wp1x101og7fictpt2c", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1411,7 +1411,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "oliver@franecki-paucek.example", name: "yw0txgeoo0", introduction: "oz27kktlz1vwcxc2u1s5", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "irwin_white@gutmann.test", name: "e5tlu05047", introduction: "ue7499toh0r0zo8uroia", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1419,7 +1419,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "magnolia.baumbach@dietrich-braun.test", name: "2p0mudlxid", introduction: "qv9kayzxqvj1300geyy6", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "stefanie.turner@larkin.example", name: "ge047syxas", introduction: "rfrekae142xd8azzkuh9", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1427,7 +1427,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "annetta@abbott.test", name: "tipgdy0k8d", introduction: "3061l35z1tz9hu69438h", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "maisie_hills@sanford.test", name: "u2i3isyrzg", introduction: "397dozqii1f4npvaaa3q", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1435,7 +1435,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "georgianne.feeney@thompson-mills.test", name: "r7t5f59voq", introduction: "cmpftzbfd6h7bbp29z8k", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "lynnette_harber@mckenzie.test", name: "ecj1gqj6tb", introduction: "i3b2na81wd81yuyc9aae", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1443,7 +1443,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "candace.kunze@kilback-koch.example", name: "6lfbp1wi52", introduction: "rfpsnjk1o7ixwj9ryd8j", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "karyl@schinner-langosh.example", name: "5fe92ieg3l", introduction: "xanfnuodczqzt0a3mwd0", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1451,7 +1451,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "freida@borer-hansen.test", name: "647qp2c0ry", introduction: "nlh72v111bjbbbv6x1bo", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "corene_hammes@auer.example", name: "0rey2g0dmd", introduction: "lw3bdmlrwdlw660pftdp", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1459,7 +1459,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "aleshia@huels.test", name: "at04v2dko3", introduction: "kxqhzlzen1v1mkj00igh", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "pat@boyle.test", name: "0959ssuob1", introduction: "zl0oacmxzqwhec13trj1", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1467,7 +1467,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "imelda@price.example", name: "q6ha763phz", introduction: "x464oyxgf1o4tgelylr9", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "mi_cremin@mraz.test", name: "4i5o75raa5", introduction: "zgfoe0hb95qcmary2ecd", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1475,7 +1475,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "tomas.collins@ratke.example", name: "hjz0knlu36", introduction: "ikxjv4mwf1v0zed164au", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "ward@swaniawski.example", name: "uiotyxpy5e", introduction: "luhx28aat9fyfu87c9xg", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1483,7 +1483,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "vickey@ruecker.example", name: "qj1s5u3y0g", introduction: "7jsjb5hsmwxvubol8m6d", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "graig@jast.test", name: "okifx04esh", introduction: "jmpavu5hq4dhefobv2lg", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1491,7 +1491,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "bernetta@jast-lemke.test", name: "xgyi2fb7v2", introduction: "5cmftpq9n5sbjae70t2p", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "homer@feeney-adams.example", name: "iqsk3xg15v", introduction: "qw2m0c8x0kvqmzm7eo0y", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1499,7 +1499,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "torie.hodkiewicz@ebert-boehm.test", name: "bns8cvhrhe", introduction: "1vg2hxdhlvfbpioywfxv", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "jospeh@simonis.example", name: "k5ygkin90h", introduction: "f1rqne8i38zl265ihv1g", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1507,7 +1507,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "russell@blick-weissnat.example", name: "tj4f3r9jhv", introduction: "369k9oiju2jr2qfdv24e", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "jarrod@lakin.example", name: "8it5bgqxe3", introduction: "nj1tyu1q7lj0z6xtsh4p", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1515,7 +1515,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "hilario@cruickshank.test", name: "ngywm8ktn3", introduction: "lw287ne4drjfmcm75a35", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "gilberto.bogan@wehner.example", name: "xobq60rhuc", introduction: "p8kbyn2mrtevzkagnos6", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1523,7 +1523,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "bruno@fay-willms.test", name: "b8jhsfatut", introduction: "ttwgm3rhgyg5a028c3s1", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "lucrecia.ohara@hills.example", name: "f6yvlo89hh", introduction: "xl07zx44zfznf0ivxl0r", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1531,7 +1531,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "jacinto@west.test", name: "03pnafztl9", introduction: "rrnnu4evkeq9ih3sn1bq", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "nettie@frami-dickens.example", name: "2a9uzd2zcp", introduction: "zuiqpp2b2lhyj3gr116o", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1539,7 +1539,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "reynaldo_volkman@watsica.example", name: "vcyo8b8uxm", introduction: "oz9sl3cjiwt4ctw9mamb", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "yong@mcglynn-lang.example", name: "6bp8nwzzis", introduction: "qp4jc7ylkabchnb8plaf", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1547,7 +1547,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "darren@kuvalis-crona.example", name: "1rdb2lhu9a", introduction: "0hz3amsp7efukg5kn2it", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "odell.upton@smitham.test", name: "0wbrievuie", introduction: "1pwz7nzapzhv779u1y2y", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1555,7 +1555,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "tarah@rutherford.test", name: "ze81k82zul", introduction: "ouo0ua4c594u5v2qv33g", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "jadwiga.kemmer@jones.test", name: "3e78s7cn42", introduction: "0144z17ik6zvmrtedl22", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1563,7 +1563,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "daniel@smitham-schiller.test", name: "u52du7jza4", introduction: "kwtp34lzi0nmfuizl316", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "francis@kuphal-boyle.example", name: "3a9z9icza2", introduction: "7z3mnpdpgucdmptavsu4", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1571,7 +1571,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "darrin@thiel.test", name: "ux5ktwktmp", introduction: "jnwk1ezwg5av3f9436f7", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "bobbye.oconner@oberbrunner-gulgowski.example", name: "r2aems2qom", introduction: "oemxwyhqoskcr164jl0l", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1579,7 +1579,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "beau@ernser-collins.test", name: "e8gc8octlm", introduction: "ketly5osi36faidzkk7v", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "jonas@rice.test", name: "is7zjh1cv2", introduction: "m9f7g5w7dl7qz8zxvmbd", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1587,7 +1587,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "lanny@halvorson.example", name: "5v4rx7zzjg", introduction: "hr0bgpcfuwt2gv9t4rob", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "royal.spencer@jenkins.example", name: "g5dmuydyql", introduction: "88vdr3jt5h6aqirv5cfa", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1595,7 +1595,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "son.walsh@bayer-wilderman.example", name: "0q9hg9usak", introduction: "5a6evq29modmvk844qno", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "dorothy_schowalter@kertzmann-mante.test", name: "3iw76w7b2z", introduction: "1s13d2sklo14unk9fu6u", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1603,7 +1603,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "tawanna@zulauf-stokes.test", name: "3qd4i18u6k", introduction: "akf7j0rkx9o3njy15j69", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "stacy@stehr.test", name: "jg8qj9y9g3", introduction: "l535a0lqagwtd9qxsu0x", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1611,7 +1611,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "freddy_fisher@rodriguez-schultz.example", name: "nhneselfn8", introduction: "gp4pwxmu1qwitzcdx5mw", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "beverly.wuckert@roberts.test", name: "5miy7ww9hl", introduction: "220ug3y2pcjh0ixufuzu", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1619,7 +1619,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "georgiann_mcclure@cummerata.test", name: "qanynr2kie", introduction: "36okyxafvmsaqcaja09c", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "connie@stanton-orn.test", name: "txjudm4tty", introduction: "ag6bb6u46xqacwapcrit", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1627,7 +1627,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "ruby.schmeler@legros.test", name: "8ro4uhdo5r", introduction: "qctzlwxywt3cjirwxf4m", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "regenia@koss.test", name: "6pfmaiyiyn", introduction: "t9kbh6swg64g0bzlq658", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1635,7 +1635,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "janae.braun@hegmann.test", name: "0sz8m2ckw4", introduction: "umjbj7af01e02dc332y5", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "junko_harvey@swaniawski-gleason.example", name: "9krwe0907a", introduction: "tl506owwvk1qt6zjy7xs", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1643,7 +1643,7 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "jamar_heathcote@watsica.test", name: "t9033ct8si", introduction: "qvzxvnhur1dd971unz9z", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "thomasena@reynolds.test", name: "yw67pwfztl", introduction: "uhyc4eqjcokhllhx8lo1", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
@@ -1651,11 +1651,11 @@ Failures:
        [31mFailure/Error: user.profile_image.attach(io: File.open('spec/images/profile_image.jpeg'), filename: 'profile_image.jpeg', content_type: 'application/xlsx')[0m
        [31m[0m
        [31mNoMethodError:[0m
-       [31m  undefined method `profile_image' for #<User id: nil, email: "alida.wilkinson@green.example", name: "xit8atf1nl", introduction: "h47yvmx10ramzx8ajj3x", created_at: nil, updated_at: nil>[0m
+       [31m  undefined method `profile_image' for #<User id: nil, email: "preston_ohara@brekke.example", name: "0zn037q88u", introduction: "qpb166cervdrlkq5rlpa", created_at: nil, updated_at: nil>[0m
        [36m# ./spec/factories/users.rb:10:in `block (3 levels) in <main>'[0m
        [36m# ./spec/system/03_finishing_touches_spec.rb:4:in `block (2 levels) in <main>'[0m
 
-Finished in 1.55 seconds (files took 1.15 seconds to load)
+Finished in 1.93 seconds (files took 2.3 seconds to load)
 [31m201 examples, 169 failures[0m
 
 Failed examples:

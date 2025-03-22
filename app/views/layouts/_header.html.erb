@@ -14,20 +14,24 @@
 				 <% end %>
 				 </li>
 				 <li>
-				 <%= link_to user_path(current_user.id), class:"nav-link text-light" do%>
-					<i class="fa-solid fa-house"></i> Home
+				 <%= link_to "/users", class:"nav-link text-light" do%>
+					<i class="fa-solid fa-users"></i> Users
 				 <% end %>
 				 </li>
+
+				 <li>
+				 <%= link_to "books_path", class:"nav-link text-light" do%>
+					<i class="fa-solid fa-book-open"></i> Books
+				 <% end %>
+				 </li>
+
+				 <li>
+				 <%= link_to destroy_user_session_path, method: :delete, class: "nav-link text-light", data: { confirm: 'Are you sure?' } do %>
+					 <i class="fa-solid fa-right-from-bracket"></i> log out
+				 <% end %>
+			    </li>
+			 
 				 
-				 <li>
-				 	<%= link_to "Users", "/users" %>
-				 </li>
-				 <li>
-					<%= link_to "Books", "books_path" %>
-				 </li>
-				 <li>
-					<%= link_to "log out", "destroy_user_session_path" %>
-				 </li>
 			 <% else %>
 				 <li>
 					 <%= link_to root_path, class:"nav-link text-light" do%>
@@ -35,7 +39,7 @@
 					 <% end %>
 				 </li>
 				 <li>
-					 <%= link_to about_path, class:"nav-link text-light" do %>
+					 <%= link_to '/home/about', class:"nav-link text-light" do %>
 						<i class="fa-solid fa-link"></i> About
 					 <% end %>
 				 </li>
