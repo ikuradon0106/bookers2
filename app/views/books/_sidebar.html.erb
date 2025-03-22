@@ -4,7 +4,7 @@
 	    <h2>User info</h2>
 	    <table class='table'>
 	      <tr>
-				  <%= image_tag @user.image.attached? ? @user.image : 'default-image.jpg', size: "100x100" %>
+				  <%= image_tag @user.profile_image.attached? ? @user.profile_image : 'default-image.jpg', size: "100x100" %>
 	      </tr>
 	      <tr>
 	        <th>name</th>

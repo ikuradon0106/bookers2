@@ -1,5 +1,5 @@
 <h2 class="mt-3">New book</h2>
-<%= form_with(model: @book, local: true) do |f| %>
+<%= form_with(model: @book, url: books_path local: true) do |f| %>
 
   <div class="mb-3">
     <label for="book_title" class="form-label">Title</label>
@@ -8,7 +8,7 @@
 
   <div class="mb-3">
     <label for="book_opinion" class="form-label">Opinion</label>
-    <%= f.text_area :opinion, class: 'form-control', id: 'book_opinion' %>
+    <%= f.text_area :body, class: 'form-control', id: 'book_opinion' %>
   </div>
 
   <%= f.submit 'Create Book', class: 'btn btn-success' %>
