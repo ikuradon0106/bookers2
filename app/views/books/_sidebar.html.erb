@@ -34,6 +34,8 @@
 
 
 			<h2 class="mt-3">New book</h2>
+
+
 	    <%= form_with model: @book, url: books_path, method: :post do |f| %>
 			
 			<div class="mb-3">
@@ -49,3 +51,4 @@
 			<%= f.submit 'Create Book', class: 'btn btn-success' %>
 			<% end %>
 			</div>
+
